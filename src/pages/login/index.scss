@@ -1,0 +1,21 @@
+.backgound-login {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    position: relative;
+
+}
+
+.chil-background-login {
+    opacity: 0.9;
+    background-image: url();
+    background-color: rgb(151, 81, 151);
+    border-radius: 30px;
+    width: 35%;
+    padding-top: 40px;
+    margin: 55px auto;
+    position: absolute;
+}
